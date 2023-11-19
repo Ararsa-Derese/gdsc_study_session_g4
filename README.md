@@ -1,1 +1,1 @@
-# gdsc_study_session_g4
+# Ready to learn Flutter
